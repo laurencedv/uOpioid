@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VIN Pin=Vext-2
+Change Component DesignItemId : Designator=COM Old DesignItemId=Header 14 New DesignItemId=MHDR1X14
+Change Component Footprint: Designator=COM Old Footprint=HDR1X14 New Footprint=MHDR1X14
+Change Component Comment : Designator=COM Old Comment=Header 14 New Comment=MHDR1X14
+Added Pin To Net: NetName=VEXT Pin=Vext-1
+Added Pin To Net: NetName=GND Pin=Vext-2
+Added Pin To Net: NetName=VIN Pin=Vext-2

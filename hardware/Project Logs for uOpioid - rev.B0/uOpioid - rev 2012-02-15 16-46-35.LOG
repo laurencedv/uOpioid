@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VIN Pin=Vext-2
+Change Component Designator: OldDesignator=Vext NewDesignator=PWR
+Added Pin To Net: NetName=GND Pin=PWR-2
+Added Pin To Net: NetName=VEXT Pin=VExt-1
+Added Pin To Net: NetName=VIN Pin=VExt-2
+Added Member To Class: ClassName=uOpioid - rev.B0 Member=Component PWR Header 2

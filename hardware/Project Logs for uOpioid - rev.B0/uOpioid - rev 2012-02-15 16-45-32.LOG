@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VIN Pin=Vext-2
+Added Pin To Net: NetName=VEXT Pin=Vext-1
+Added Pin To Net: NetName=GND Pin=Vext-2
+Added Pin To Net: NetName=VIN Pin=Vext-2

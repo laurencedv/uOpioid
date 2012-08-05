@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Node/P32%20uOpioid/uOpioid-B0.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/pic32_spi.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/device/op_nrf24l01+.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Stack/op_link_layer.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Stack/op_network_layer.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Stack/op_session_layer.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Stack/op_presentation_layer.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/OpIUM/Developement/Stack/op_general.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/op_interrupt.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/soft/pic32_realtime.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/pic32_timer.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/op_output_compare.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/pic32_uart.c</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/op_interrupt.h</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/pic32_uart.h</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/C32/peripheral/pic32_spi.h</file>
+        <file>file:/D:/My%20Dropbox/Electro/PIC/Header/board/COM-NRF-revA0.h</file>
+    </open-files>
+</project-private>

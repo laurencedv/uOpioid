@@ -1,0 +1,19 @@
+build/default/production/_ext/1472/uOpioid-B0.o: ../uOpioid-B0.c \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/config/PIC32MX1xx_config.h \
+ ../hardware.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/board/uOpioid-revB0.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/datatype_megaxone.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/stddef_megaxone.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/bitmanip_megaxone.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/board/COM-RS485-revA0.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/board/COM-NRF-revA0.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/pic32_clock.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/Header/splitvar_megaxone.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/pic32_timer.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/pic32_uart.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/soft/pic32_ringBuffer.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/op_interrupt.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/pic32_pps.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/op_output_compare.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/peripheral/pic32_spi.h \
+ C:/Users/icyo/Dropbox/Electro/PIC/C32/soft/pic32_realtime.h
